@@ -6,7 +6,7 @@ topics:
   - "python"
   - "python3"
   - "ポケモン"
-published: false
+published: true
 published_at: "2022-11-16 19:00"
 ---
 
