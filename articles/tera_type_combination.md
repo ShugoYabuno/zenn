@@ -1,9 +1,13 @@
 ---
 title: "テラスタルを考慮したタイプの組み合わせの優秀さをPythonで計算する"
-emoji: "🐡"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["python", "python3", "ポケモン"]
+emoji: "🏖️"
+type: "tech"
+topics:
+  - "python"
+  - "python3"
+  - "ポケモン"
 published: false
+published_at: "2022-11-16 19:00"
 ---
 
 # はじめに
